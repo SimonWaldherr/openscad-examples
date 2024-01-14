@@ -10,4 +10,5 @@ module geometricPattern(size, count) {
     }
 }
 
-geometricPattern(10, 5); // Erzeugt ein Muster mit 5x5 Quadraten, jedes 10 Einheiten groß
+linear_extrude(height = 10, center = true)
+    geometricPattern(10, 5);// Erzeugt ein Muster mit 5x5 Quadraten, jedes 10 Einheiten groß

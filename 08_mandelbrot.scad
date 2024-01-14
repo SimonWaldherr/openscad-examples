@@ -46,4 +46,4 @@ module mandelbrotSet(width, height, max_iter, scale, height_scale) {
 // Ruft das Mandelbrot-Set-Modul mit spezifischen Parametern auf
 // Erstellt ein 350x250 Mandelbrot-Set mit maximal 20 Iterationen,
 // einer Skalierung von 100 und einer Höhenskalierung von 10
-mandelbrotSet(350, 250, 20, 100, 10);
+mandelbrotSet(350, 250, 20, 100, 30);
