@@ -1,5 +1,7 @@
 # OpenSCAD Examples
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13647185.svg)](https://doi.org/10.5281/zenodo.13647185)  
+
 OpenSCAD is a specialized programming language for creating 3D models. Unlike interactive modeling programs where objects are shaped manually, OpenSCAD is based on the description of objects through text files (scripts). These scripts contain instructions that precisely define how an object should be modeled. Below are some key elements of the OpenSCAD language:
 
 1. **Declarative Syntax**: OpenSCAD uses a declarative syntax, meaning that you describe *what* should be done, not *how* it should be done. This approach allows for clear and concise code that specifies the end result without detailing the step-by-step process to achieve it.
